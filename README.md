@@ -10,5 +10,5 @@ I have nothing interesting here, so... thank you for visiting, I guess.
 
 ### Hola buenas
 
-Soy un desarrollador perezoso, y estoy bastante interesado en los entornos de programación.
+Soy un desarrollador perezoso que encuentra los entornos de programación interesantes.
 No tengo nada que ver aquí, entonces... gracias por la visita, supongo.
